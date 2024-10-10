@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+<identifier>
+	<identifier identifierType="DOI">doi:10.1234567890</identifier>
+</identifier>
+<titles>
+	<title xml:lang="fr">Dénombrement régional 2019-2020 - Observateurs et observatrices</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName nameType="Personal">Lyne Da Sylva</creatorName>
+		<givenName>Lyne</givenName>
+		<familyName>Da Sylva</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org">0000-0003-2530-1048</nameIdentifier>
+		<affiliation xml:lang="fr" affiliationIdentifierScheme="ISNI" schemeURI="https://isni.org">Université de Montréal</affiliation>
+	</creator>
+	<creator>
+		<creatorName>sss</creatorName>
+	</creator>
+</creators>
+<publisher>code_repository(EBSI)</publisher>
+<publicationYear>2005</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">code</resourceType>
+<descriptions>
+	<description xml:lang="fr" descriptionType="Abstract">Prototype développé dans le cadre d&apos;un projet qui a pour but de développer des outils de traitement automatique des documents pour faire de l’indexation  automatique, qui soit réellement utiles aux utilisateurs finaux.</description>
+</descriptions>
+<subjects>
+	<subject>prototype informatique</subject>
+	<subject>indexation automatique</subject>
+	<subject>condensation automatique</subject>
+	<subject subjectScheme="DDC" schemeURI="https://deweyfr.pansoft.de/webdewey/index_11.html">025.410285</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="HostingInstitution">
+		<contributorName>Université de Montréal</contributorName>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Created">2001</date>
+	<date dateType="Collected">2001-2005</date>
+</dates>
+<sizes>
+	<size>112539 Ko</size>
+</sizes>
+<formats>
+	<format>zip</format>
+	<format>Perl</format>
+</formats>
+<rightsList>
+	<rights schemeURI="https://creativecommons.org" rightsIdentifierScheme="Creative Commons" rightsIdentifier="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International</rights>
+</rightsList>
+<relatedItems>
+	<relatedItem relationType="IsReferencedBy">
+		<relatedItemIdentifier relatedItemIdentifierType="URL">www.example.org/rapport.pdf</relatedItemIdentifier>
+		<titles>
+			<title xml:lang="fr">Rapport final - Projet Indexo : Outils d’accès au contenu de documents numériques</title>
+		</titles>
+	</relatedItem>
+</relatedItems>
+</resource>
