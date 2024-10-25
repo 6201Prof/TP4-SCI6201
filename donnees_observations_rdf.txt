@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dcterms="http://purl.org/dc/terms/"><rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000001"> 
+<dcterms:date>2019-11-01T00:00:00Z</dcterms:date>
+<dcterms:spatial>Beauharnois</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q139109</dcterms:spatial>
+<dcterms:subject>Fuligule à dos blanc</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q378533</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO001759</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000001</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000002"> 
+<dcterms:date>2019-11-04T00:00:00Z</dcterms:date>
+<dcterms:spatial>Bergeronnes</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q63242528</dcterms:spatial>
+<dcterms:subject>Pygargue à tête blanche</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q127216</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO034556</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000002</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000003"> 
+<dcterms:date>2019-11-05T00:00:00Z</dcterms:date>
+<dcterms:spatial>Beauharnois</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q139109</dcterms:spatial>
+<dcterms:subject>Harelde kakawi</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q26597</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO003056</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000003</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000004"> 
+<dcterms:date>2019-11-08T00:00:00Z</dcterms:date>
+<dcterms:spatial>Beauharnois</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q139109</dcterms:spatial>
+<dcterms:subject>Goéland arctique</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q174232</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO002659</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000004</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000005"> 
+<dcterms:date>2019-12-01T00:00:00Z</dcterms:date>
+<dcterms:spatial>Lévis</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q139208</dcterms:spatial>
+<dcterms:subject>Bec-croisé</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q339517</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO001759</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000005</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000006"> 
+<dcterms:date>2019-12-01T00:00:00Z</dcterms:date>
+<dcterms:spatial>Québec</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q2145</dcterms:spatial>
+<dcterms:subject>Bec-croisé</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q339517</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO003056</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000006</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000007"> 
+<dcterms:date>2019-12-01T00:00:00Z</dcterms:date>
+<dcterms:spatial>Laval</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q141810</dcterms:spatial>
+<dcterms:subject>Junco ardoisé</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q525818</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO023558</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000007</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000008"> 
+<dcterms:date>2019-12-02T00:00:00Z</dcterms:date>
+<dcterms:spatial>Trois-Rivières</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q44012</dcterms:spatial>
+<dcterms:subject>Étourneau sansonnet</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q25469</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO000254</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000008</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000009"> 
+<dcterms:date>2019-12-02T00:00:00Z</dcterms:date>
+<dcterms:spatial>Cacouna</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q2932587</dcterms:spatial>
+<dcterms:subject>Harfang des neiges</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q170177</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO022563</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000009</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000010"> 
+<dcterms:date>2019-12-03T00:00:00Z</dcterms:date>
+<dcterms:spatial>Montréal</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q340</dcterms:spatial>
+<dcterms:subject>Roselin pourpré</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q27075782</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO003549</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000010</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000011"> 
+<dcterms:date>2019-12-03T00:00:00Z</dcterms:date>
+<dcterms:spatial>Laval</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q141810</dcterms:spatial>
+<dcterms:subject>Roselin pourpré</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q27075782</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO003549</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000011</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000012"> 
+<dcterms:date>2019-12-03T00:00:00Z</dcterms:date>
+<dcterms:spatial>Montreal</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q340</dcterms:spatial>
+<dcterms:subject>Étourneau sansonnet</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q25469</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO001759</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000012</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000013"> 
+<dcterms:date>2019-12-04T00:00:00Z</dcterms:date>
+<dcterms:spatial>Cacouna</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q2932587</dcterms:spatial>
+<dcterms:subject>Grive solitaire</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q846350</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO022563</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000013</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000014"> 
+<dcterms:date>2019-12-04T00:00:00Z</dcterms:date>
+<dcterms:spatial>Montreal</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q340</dcterms:spatial>
+<dcterms:subject>Troglodyte familier</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q524799</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO003549</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000014</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000015"> 
+<dcterms:date>2019-12-05T00:00:00Z</dcterms:date>
+<dcterms:spatial>Lac-Brome</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q142246</dcterms:spatial>
+<dcterms:subject>Grive solitaire</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q846350</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO003056</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000015</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000016"> 
+<dcterms:date>2019-12-05T00:00:00Z</dcterms:date>
+<dcterms:spatial>Lévis</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q139208</dcterms:spatial>
+<dcterms:subject>Junco ardoisé</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q525818</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO002659</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000016</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000017"> 
+<dcterms:date>2019-12-05T00:00:00Z</dcterms:date>
+<dcterms:spatial>Trois-Rivières</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q44012</dcterms:spatial>
+<dcterms:subject>Junco ardoisé</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q525818</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO001759</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000017</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000018"> 
+<dcterms:date>2019-12-05T00:00:00Z</dcterms:date>
+<dcterms:spatial>Trois-Rivières</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q44012</dcterms:spatial>
+<dcterms:subject>Troglodyte familier</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q524799</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO023558</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000018</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000019"> 
+<dcterms:date>2019-12-06T00:00:00Z</dcterms:date>
+<dcterms:spatial>Granby</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q141881</dcterms:spatial>
+<dcterms:subject>Alouette cornue</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q207249</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO002659</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000019</dcterms:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000020"> 
+<dcterms:date>2019-12-06T00:00:00Z</dcterms:date>
+<dcterms:spatial>Longueuil</dcterms:spatial>
+<dcterms:spatial>https://www.wikidata.org/wiki/Q139398</dcterms:spatial>
+<dcterms:subject>Alouette cornue</dcterms:subject>
+<dcterms:subject>https://www.wikidata.org/wiki/Q207249</dcterms:subject>
+<dcterms:creator>http://example.org/#AQO003056</dcterms:creator>
+<dcterms:identifier>https://dasylva.ebsi.umontreal.ca/sci6201/2022/tp3-ressource-rdf/#SCI6201-2021-0000020</dcterms:identifier>
+</rdf:Description></rdf:RDF>
